@@ -14,16 +14,22 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Redux](https://img.shields.io/badge/redux-05122A.svg?style=flat&logo=redux&logoColor=007ACC)
+![SASS](https://img.shields.io/badge/SASS-05122A.svg?style=flat&logo=SASS&logoColor=hotpink)
+![MUI](https://img.shields.io/badge/MUI-05122A.svg?style=flat&logo=mui&logoColor=230081CB)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![Webpack](https://img.shields.io/badge/webpack-05122A.svg?style=flat&logo=webpack&logoColor=238DD6F9)
+![Express.js](https://img.shields.io/badge/express.js-05122A.svg?style=flat&logo=express&logoColor=%23404d59)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![NPM](https://img.shields.io/badge/NPM-05122A.svg?style=flat&logo=npm&logoColor=23000000)
+![Yarn](https://img.shields.io/badge/yarn-05122A.svg?style=flat&logo=yarn&logoColor=232C8EBB)
 
 
 ### 🤝🏻 &nbsp;Connect with Me
